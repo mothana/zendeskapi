@@ -1,2 +1,2 @@
-# zendeskapi
-use zendesk api by python
+# Pass APIs with Python
+access and use zendesk api via python
